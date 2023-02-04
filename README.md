@@ -1,16 +1,16 @@
 # choice_app
 
-A new Flutter project.
+Decision making Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is project where i implement 4 different ways in which the app helps you make 
+a decision.
+The games made in the app are:
+1. Dice Roller
+2. Coin toss
+3. Rock Paper Scissors
+4. Computer Generated Answers
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+the answers are completely random are generated using the random number generator.
+So feel free trusting the answers LOL...
